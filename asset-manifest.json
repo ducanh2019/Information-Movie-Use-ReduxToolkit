@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.06498026.css",
-    "main.js": "/static/js/main.f0b6f16f.js",
-    "static/media/user.png": "/static/media/user.109eb92014ac0b55efdf.png",
-    "index.html": "/index.html",
-    "main.06498026.css.map": "/static/css/main.06498026.css.map",
-    "main.f0b6f16f.js.map": "/static/js/main.f0b6f16f.js.map"
+    "main.css": "/Information-Movie-Use-ReduxToolkit/static/css/main.06498026.css",
+    "main.js": "/Information-Movie-Use-ReduxToolkit/static/js/main.88078c95.js",
+    "static/media/user.png": "/Information-Movie-Use-ReduxToolkit/static/media/user.109eb92014ac0b55efdf.png",
+    "index.html": "/Information-Movie-Use-ReduxToolkit/index.html",
+    "main.06498026.css.map": "/Information-Movie-Use-ReduxToolkit/static/css/main.06498026.css.map",
+    "main.88078c95.js.map": "/Information-Movie-Use-ReduxToolkit/static/js/main.88078c95.js.map"
   },
   "entrypoints": [
     "static/css/main.06498026.css",
-    "static/js/main.f0b6f16f.js"
+    "static/js/main.88078c95.js"
   ]
 }
